@@ -1,0 +1,1 @@
+nome = prompt ('digite seu nome aqui amiguinho!');

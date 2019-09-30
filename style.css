@@ -1,0 +1,33 @@
+body{
+    margin: 0%;
+    background-image: url(depositphotos_99986662-stock-illustration-superheroes-in-comic-style-1.jpg);
+    width: 100vw;
+}
+
+.titulo{
+    width: 100%;
+    background-color: white;
+}
+
+div h1{
+    color: #cb436b;
+    display: flex;
+    font-family: 'Russo One', sans-serif;
+    font-size: 50pt;
+    justify-content: center;
+    margin: 0;
+    width: 100%;
+
+}
+div button{
+    background-color: #cb436b;
+    color: white;
+    font-family: 'Russo One', sans-serif;
+    padding: 5vh;
+    margin-block-start: 60vh;
+    margin-inline-start: 80vh;
+    border: none;
+    cursor: pointer;
+    border-radius: 35%;
+}
+
